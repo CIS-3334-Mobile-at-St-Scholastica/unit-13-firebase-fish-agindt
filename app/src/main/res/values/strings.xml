@@ -3,4 +3,8 @@
     <string name="fish_caught">Fish caught so far...</string>
     <string name="add_fish">Add a fish</string>
     <string name="fish_details">Fish Details</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextPassword">Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonCreateAccount">Create New User</string>
 </resources>
